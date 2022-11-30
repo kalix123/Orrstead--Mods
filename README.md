@@ -1,5 +1,6 @@
 # Orrstead--Mods
-A collection of mods and example mods for the Orrstead game
+A collection of mods and example mods for [Orrstead](https://store.steampowered.com/app/693940/Orrstead/)
+To create a C# mod follow [this guide](https://orrstead.fandom.com/wiki/Modding_API)
 
 # Current Mods
 - Example Mod 1 : Brief Description if necesary
